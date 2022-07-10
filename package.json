@@ -1,0 +1,28 @@
+{
+  "name": "templates",
+  "version": "1.0.0",
+  "description": "Templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Template"
+  ],
+  "author": "BLACKOUT#0001",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/rest": "^0.4.1",
+    "@zikeji/hypixel": "^3.1.1",
+    "ascii-table": "^0.0.9",
+    "discord-api-types": "^0.32.0",
+    "discord.js": "^13.2.0",
+    "fs": "^0.0.1-security",
+    "mcdata": "^1.0.9",
+    "minecraft-player": "^1.0.1",
+    "moment": "^2.29.1",
+    "mongodb": "^4.5.0",
+    "mongoose": "^6.3.1"
+  }
+}
